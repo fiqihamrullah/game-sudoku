@@ -24,7 +24,8 @@ Sudoku is a logic-based number-placement puzzle. The objective is to fill a 9x9 
 
  ## **Video Demo**
 
- Here's  [link](https://drive.google.com/file/d/1uJh640-pmtVVxWyBAZDTpAVOUeAS-Avv/view?usp=drive_link)  to watch how it works
+https://github.com/fiqihamrullah/game-sudoku/assets/68839112/84e325eb-f44f-4668-b95c-c6478f56c3e9
+
 
 
 ## Run Locally
